@@ -1,0 +1,19 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden !important;
+}
+
+.homeHeader{
+    padding: 40px;
+    font-weight: bold;
+}
+
+
+.editAction{
+    cursor: pointer;
+    color: red;
+}
+.editAction:hover{
+    color: darkred;
+}
